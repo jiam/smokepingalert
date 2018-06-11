@@ -1,0 +1,11 @@
+frequency: 300
+count: 2
+repeat: 60
+Hbaseemail: >-
+  aa@xx.com,
+  bb@xx.com,
+  cc@xx.com
+Bccemail: >-
+  dd@xx.com,
+  ee@xx.com,
+  ff@xx.com
